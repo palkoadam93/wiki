@@ -1,0 +1,70 @@
+body {
+    font-family: 'Yantramanav';
+	background-color: SlateGray;
+}
+
+.tartalom, .nevjegy, .printscreen {
+ border: solid;
+ border-width: 1px;
+ padding: 10px;
+}
+
+.nevjegy {
+ float: right;
+}
+
+.printscreen {
+ float: left;
+	width:120px;
+}
+
+.tartalom{
+width:130px;
+}
+
+.center {
+ text-align: center;
+}
+
+.in{
+display:inline-block;
+background-color: solid;
+	width:49%;
+}
+
+.LAP{
+ float:right;
+	width:80%;
+}
+
+.OLDALMENU{
+	width:20%;
+	font-size:small;
+	height:100%;
+}
+
+.alul{
+	  display: inline-block;
+}
+
+#kiskep{
+	width:100%;
+}
+
+#cat{
+	border:solid;
+	border-width:1px;
+	padding:3px;
+}
+
+footer, #ac{
+	font-size:small;
+}
+
+header{
+	display:inline-block;
+}
+
+.szurke{
+	background-color:gray;
+}
